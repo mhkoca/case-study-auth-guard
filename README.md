@@ -6,11 +6,10 @@ AuthGuardAPI is responsible for generating the JWT Token with the login endpoint
 
 I used SQLite as database. When you open the solution, it is enough to run the ```add-migration migration_name``` and ```update-database``` commands in both API projects. There is a User table in the database created for AuthGuard. Employee table in the Employee database. Tables will be seeded with a few records when the migration is done. 
 
-You can use
+You can use the following parameters to login and get token.
 ```
 {
   "email": "test@test.com",
   "password": "password"
 }
 ```
-to login and get token.
