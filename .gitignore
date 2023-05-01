@@ -3,3 +3,16 @@
 ################################################################################
 
 /.vs
+/CaseStudy.AuthGuard.API/bin/Debug/net6.0
+/CaseStudy.AuthGuard.API/Migrations
+/CaseStudy.AuthGuard.API/obj
+/CaseStudy.AuthGuard.API/AuthGuard.db-wal
+/CaseStudy.AuthGuard.API/AuthGuard.db-shm
+/CaseStudy.AuthGuard.API/AuthGuard.db
+/CaseStudy.Data/CaseStudy.Data/bin/Debug/net6.0
+/CaseStudy.Data/CaseStudy.Data/obj
+/CaseStudy.Data/CaseStudy.Data/AuthGuard.db
+/CaseStudy.Employee.API/CaseStudy.Employee.API/bin/Debug/net6.0
+/CaseStudy.Employee.API/CaseStudy.Employee.API/Migrations
+/CaseStudy.Employee.API/CaseStudy.Employee.API/obj
+/CaseStudy.Employee.API/CaseStudy.Employee.API/Employee.db
